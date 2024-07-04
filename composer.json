@@ -1,0 +1,15 @@
+{
+    "name": "dhhoa/mvc",
+    "authors": [
+        {
+            "name": "hoang1803",
+            "email": "21020073@vnu.edu.vn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
